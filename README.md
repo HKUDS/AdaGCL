@@ -1,6 +1,8 @@
 # AdaGCL
 
-This is the PyTorch implementation for AdaptiveGCL proposed in the paper **Adaptive Graph Contrastive Learning for Recommendation**.
+This is the PyTorch implementation for AdaGCL proposed in the paper **Adaptive Graph Contrastive Learning for Recommendation**, which is accepted by KDD 2023.
+
+![](./AdaGCL.png)
 
 ## 1. Running environment
 

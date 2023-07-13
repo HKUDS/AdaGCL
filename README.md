@@ -2,7 +2,7 @@
 
 This is the PyTorch implementation for **AdaGCL** proposed in the paper **Adaptive Graph Contrastive Learning for Recommendation**, which is accepted by KDD 2023.
 
-> Yangqin Jiang, Lianghao Xia, and Chao Huang. 2023. Adaptive Graph Contrastive Learning for Recommendation. In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’23), August 6–10, 2023, Long Beach, CA, USA. ACM, New York, NY, USA, 10 pages.
+> Yangqin Jiang, Chao Huang, and Lianghao Xia. 2023. Adaptive Graph Contrastive Learning for Recommendation. In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’23), August 6–10, 2023, Long Beach, CA, USA. ACM, New York, NY, USA, 10 pages.
 
 ## 1. Introduction
 

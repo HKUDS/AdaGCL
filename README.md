@@ -57,10 +57,11 @@ python Main.py --data beer --ib_reg 1e-2 --lambda0 1e-2 --ssl_reg 1
 If you find this work helpful to your research, please kindly consider citing our paper.
 
 ```
-@article{jiang2023adaptive,
+@inproceedings{jiang2023adaptive,
   title={Adaptive Graph Contrastive Learning for Recommendation},
-  author={Jiang, Yangqin and Huang, Chao and Xia, Lianghao},
-  journal={arXiv preprint arXiv:2305.10837},
+  author={Jiang, Yangqin and Huang, Chao and Huang, Lianghao},
+  booktitle={Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages={4252--4261},
   year={2023}
 }
 ```
